@@ -1,6 +1,7 @@
 # dbt Architect Exam Study Materials
 
 Community study materials for the **dbt Architect certification exam**. Built from the official dbt documentation and organized around the 8 exam topic areas.
+* I have improved Kwoon Lee's architect github repository to expand on topics, update outdated information, and make the study notes clearer. I used solely this guide for studying and it helped me learn a lot and pass the certification on my first try.* 
 
 > [!important]
 > **Read this first.** This material is my best effort at synthesizing the publicly available [dbt documentation](https://docs.getdbt.com) with LLM assistance, captured as a snapshot in **April 2026**. Treat it as a study aid, not gospel — mistakes are possible, and dbt evolves quickly, so verify anything critical against the current docs. This repo is **not actively maintained** — fork it, adapt it, use it however helps you. If content has drifted, an LLM can help reconcile sections against the latest docs.
